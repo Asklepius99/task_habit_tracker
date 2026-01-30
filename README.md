@@ -191,4 +191,4 @@ tasksState.when(
 
 ---
 
-**Geliştirici:** Flutter Clean Architecture Demo
+
